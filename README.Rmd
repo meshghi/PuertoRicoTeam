@@ -13,6 +13,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - Manashi Paul
 
 ## Subtitle 1
+Prject Goal: We seek to reveal the spatial distribution of Hurricane Maria’s impact on Puerto Rico’s agro-food system and identify which, if any, pre-existing socio-environmental conditions were most associated with high impact at the island-wide level and in local hot and cold spots. 
 
 ## Subtitle 2
+Concept: The knowledge-driven approach will use to map composite impacts relies on decision rules derived from expert local knowledge, as well as, the data-driven approach will apply to analysis of a high volume of data with the aim of capturing the complexity of the real-world processes within the data
 
